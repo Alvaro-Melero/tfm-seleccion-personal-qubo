@@ -1,0 +1,37 @@
+fase,combinacion,resultado
+aislada,R1,OK
+aislada,R2,OK
+aislada,R3,OK
+aislada,R4,OK
+aislada,R5,OK
+aislada,R6,OK
+aislada,R7,OK
+aislada,R8,FALLA
+par,R1+R2,OK
+par,R1+R3,OK
+par,R1+R4,OK
+par,R1+R5,OK
+par,R1+R6,OK
+par,R1+R7,OK
+par,R1+R8,"FALLA (R1=OK, R8=X)"
+par,R2+R3,OK
+par,R2+R4,OK
+par,R2+R5,OK
+par,R2+R6,OK
+par,R2+R7,OK
+par,R2+R8,"FALLA (R2=OK, R8=X)"
+par,R3+R4,OK
+par,R3+R5,OK
+par,R3+R6,OK
+par,R3+R7,OK
+par,R3+R8,"FALLA (R3=OK, R8=X)"
+par,R4+R5,OK
+par,R4+R6,OK
+par,R4+R7,OK
+par,R4+R8,"FALLA (R4=OK, R8=X)"
+par,R5+R6,OK
+par,R5+R7,OK
+par,R5+R8,"FALLA (R5=OK, R8=X)"
+par,R6+R7,OK
+par,R6+R8,"FALLA (R6=OK, R8=X)"
+par,R7+R8,"FALLA (R7=OK, R8=X)"

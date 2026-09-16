@@ -1,0 +1,16 @@
+id,perfil,universidad,ubicacion,c1_exp_total,c2_exp_stack,c3_nivel_python,c4_cobertura,c5_prueba_tecnica,c6_seniority,c7_liderazgo,c8_certificaciones,c9_ingles,c10_soft_skills,c11_desviacion_salarial_pct,c12_permanencia_meses,c13_sobrecualificacion,_salario_pen,_tecnologias
+C01,Senior,PUCP,San Isidro,10,7,5,1.0,88,senior,5,2,B2,4,75,40,0.7,14000,Python;FastAPI/Django;PostgreSQL;AWS;Docker
+C02,Senior,UNI,Miraflores,8,6,5,0.8,82,senior,4,1,C1,5,56,55,0.5,12500,Python;FastAPI/Django;PostgreSQL;AWS
+C03,Mid,UPC,Surco,5,4,4,0.8,75,mid,2,0,B1,4,2,30,0.1,8200,Python;FastAPI/Django;PostgreSQL;Docker
+C04,Mid,UNMSM,San Miguel,4,3,4,0.6,70,mid,1,0,B2,3,-5,26,0.1,7600,Python;FastAPI/Django;PostgreSQL
+C05,Mid,UTEC,Jesús María,6,4,3,0.8,72,mid,3,2,B2,4,9,34,0.2,8700,Python;PostgreSQL;AWS;Docker
+C06,Mid,Cibertec,Los Olivos,5,4,3,0.6,68,mid,1,0,A2,3,0,22,0.1,8000,Python;FastAPI/Django;PostgreSQL
+C07,Junior,UNMSM,Comas,2,2,3,0.4,62,junior,0,0,B1,4,-40,14,0.0,4800,Python;PostgreSQL
+C08,Junior,TECSUP,Callao,2,1,3,0.4,58,junior,0,0,A2,3,-48,10,0.0,4200,Python;Docker
+C09,Junior,USIL,Lince,2,2,3,0.4,60,junior,0,0,B1,5,-44,16,0.0,4500,Python;FastAPI/Django
+C10,Mid,U. de Lima,San Borja,5,2,3,0.2,55,mid,1,0,B2,4,0,24,0.1,8000,Python
+C11,Senior,UNI,Miraflores,12,9,5,1.0,90,senior,5,3,C1,3,100,60,0.9,16000,Python;FastAPI/Django;PostgreSQL;AWS;Docker
+C12,Mid,UNSA (Arequipa),Remoto,4,3,4,0.6,71,mid,1,1,B1,4,-4,28,0.1,7700,Python;PostgreSQL;AWS
+C13,Mid,PUCP,Pueblo Libre,7,5,4,0.8,78,mid,3,0,B2,4,10,44,0.3,8800,Python;FastAPI/Django;PostgreSQL;Docker
+C14,Junior,UNT (Trujillo),Remoto,3,2,3,0.6,65,junior,0,0,A2,3,-35,18,0.0,5200,Python;PostgreSQL;Docker
+C15,Mid,UPC,San Miguel,6,4,4,0.6,74,mid,2,1,C1,5,5,36,0.2,8400,Python;FastAPI/Django;AWS
